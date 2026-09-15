@@ -1,8 +1,8 @@
 package com.example.user_management.controller;
 
-import com.example.usermanagement.dto.CreateUserRequest;
-import com.example.usermanagement.dto.UserResponse;
-import com.example.usermanagement.service.UserService;
+import com.example.user_management.dto.CreateUserRequest;
+import com.example.user_management.dto.UserResponse;
+import com.example.user_management.service.UserService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

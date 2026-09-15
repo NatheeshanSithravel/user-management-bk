@@ -1,9 +1,9 @@
-package com.example.usermanagement.service;
+package com.example.user_management.service;
 
-import com.example.usermanagement.dto.CreateUserRequest;
-import com.example.usermanagement.dto.UserResponse;
-import com.example.usermanagement.entity.User;
-import com.example.usermanagement.repository.UserRepository;
+import com.example.user_management.dto.CreateUserRequest;
+import com.example.user_management.dto.UserResponse;
+import com.example.user_management.entity.User;
+import com.example.user_management.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
