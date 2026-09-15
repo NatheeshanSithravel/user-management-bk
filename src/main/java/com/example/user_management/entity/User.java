@@ -1,4 +1,4 @@
-package com.example.usermanagement.entity;
+package com.example.user_management.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

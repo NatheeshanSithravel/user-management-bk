@@ -1,4 +1,4 @@
-package com.example.usermanagement.dto;
+package com.example.user_management.dto;
 
 import com.example.usermanagement.entity.User;
 import lombok.AllArgsConstructor;

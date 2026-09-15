@@ -1,4 +1,4 @@
-package com.example.usermanagement.controller;
+package com.example.user_management.controller;
 
 import com.example.usermanagement.dto.CreateUserRequest;
 import com.example.usermanagement.dto.UserResponse;
